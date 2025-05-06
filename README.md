@@ -59,5 +59,5 @@ python tracking_app.py
 
 🧠 AI Model
 The chatbot model is fine-tuned and uploaded to Hugging Face:
-View Model on Hugging Face: < >
+View Model on Hugging Face: < https://huggingface.co/domamostafa/Fitness-Assistance >
 
