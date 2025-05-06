@@ -22,7 +22,7 @@ firebase_admin.initialize_app(cred)
 db = firestore.client()
 # model downloading
 print("جاري تحميل الموديل...")
-model_path = r"C:\Users\Adham\OneDrive\Ishchi stol\Final-project\Chatbot\full_model"  
+model_path = r"Final-project\Chatbot\full_model"  
 
 quantization_config = BitsAndBytesConfig(
     load_in_4bit=True,
