@@ -30,17 +30,13 @@ A smart fitness mobile application that includes:
 
 ## 📁 Project Structure
 
-Fitness-AI-App/
-├── mobile_app/
-├── chatbot_backend/
-│ ├── app.py
-│ ├── requirements.txt
-│ └── model_loader.py
-├── motion_tracking_backend/
-│ ├── tracking_app.py
-│ └── requirements.txt
-├── README.md
+AIthlete-fitapp/
+├── frontend/         ← flutter app
+├── backend/          ← Flask APIs
+│   ├── chat_api/
+│   └── motio_api/
 └── .gitignore
+
 
 
 ---
