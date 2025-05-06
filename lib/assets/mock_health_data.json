@@ -1,0 +1,16 @@
+{
+  "sleep": {
+    "hours": 7.5,
+    "qualityScore": "85%"
+  },
+  "steps": {
+    "count": 10234,
+    "percent": "78%"
+  },
+  "heartRate": {
+    "bpm": 80
+  },
+  "calories": {
+    "burned": 560
+  }
+}

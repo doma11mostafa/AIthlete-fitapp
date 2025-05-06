@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332013543284",
+    "project_id": "aithlete-fitapp",
+    "storage_bucket": "aithlete-fitapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332013543284:android:a267feda16b53551acd621",
+        "android_client_info": {
+          "package_name": "com.example.first_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdUWGi7bpyTCNBDJdfzOFALNwBOOmRICA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
