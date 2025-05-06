@@ -26,7 +26,7 @@ firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 # Global variables
-model = YOLO(r"C:\Users\Adham\OneDrive\Ishchi stol\Final-project\FlutterApp\model2deployment\yolo11n-pose.pt")  # Use a valid path or download the model
+model = YOLO("./yolo11n-pose.pt")  # Use a valid path or download the model
 counters = {
     "left_hand": 0,
     "right_hand": 0,
